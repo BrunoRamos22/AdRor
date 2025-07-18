@@ -1,0 +1,32 @@
+# Arquivos e pastas do projeto Ruby on Rails (dentro de to-do-api)
+to-do-api/coverage
+to-do-api/public/packs
+to-do-api/public/assets
+to-do-api/public/builds
+to-do-api/node_modules
+to-do-api/tmp
+to-do-api/log/*.log
+to-do-api/vendor/bundle
+to-do-api/vendor/cache
+to-do-api/public/system
+to-do-api/public/uploads
+to-do-api/.bundle
+to-do-api/db/*.sqlite3
+to-do-api/db/*.sqlite3-journal
+to-do-api/db/*.bak
+to-do-api/db/*.db
+to-do-api/db/*.sql
+to-do-api/storage/*
+to-do-api/config/master.key
+to-do-api/config/credentials.yml.enc
+to-do-api/config/database.yml
+to-do-api/config/secrets.yml
+to-do-api/.byebug_history
+
+# Arquivos gerais de ambiente e sistema
+.env
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
